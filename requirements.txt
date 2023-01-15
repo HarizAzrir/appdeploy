@@ -1,0 +1,4 @@
+pandas==1.52
+folium==0.13.0
+numpy==1.23.0
+branca==0.3.1
