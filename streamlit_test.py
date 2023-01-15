@@ -1,7 +1,6 @@
 import streamlit as st
 
 import pandas as pd
-import folium
 import numpy as np
 import imageio
 import cv2
